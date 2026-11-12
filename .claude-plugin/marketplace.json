@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "raal1600" },
+  "plugins": [
+    {
+      "name": "redline",
+      "source": "./mods/redline",
+      "description": "A live timeline of what a session has done and is doing now, with every event open to inspection"
+    }
+  ]
+}

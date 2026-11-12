@@ -1,0 +1,8 @@
+{
+  "name": "redline",
+  "version": "0.1.0",
+  "description": "A live timeline of what a session has done and is doing now, with every event open to inspection",
+  "author": { "name": "raal1600" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
